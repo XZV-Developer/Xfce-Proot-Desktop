@@ -37,6 +37,7 @@ Run the following command inside Termux:
 ```bash
 pkg update && pkg upgrade -y && pkg install git -y && git clone https://github.com/XZV-Developer/Xfce-Proot-Desktop.git && cd Xfce-Proot-Desktop && chmod +x install-xfce.sh && ./install-xfce.sh
 ```
+If asked to enter a password, this is the password: 1234
 
 # 🇮🇩 Bahasa Indonesia
 
