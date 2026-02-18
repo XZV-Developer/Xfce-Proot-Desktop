@@ -23,4 +23,4 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 Cukup jalankan satu baris perintah ini di terminal Termux kamu:
 
 ```bash
-pkg update && pkg upgrade -y && pkg install git -y && git clone https://github.com/XZV-Developer/Xfce-Proot-Dekstop.git && cd Xfce-Proot-Desktop && chmod +x install.sh && ./install.sh
+pkg update && pkg upgrade -y && pkg install git -y && git clone https://github.com/XZV-Developer/Xfce-Proot-Dekstop.git && cd Xfce-Proot-Desktop && chmod +x install-xfce.sh && ./install-xfce.sh
