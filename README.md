@@ -66,6 +66,6 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 Cukup jalankan satu baris perintah ini di terminal Termux kamu:
 
 ```bash
-pkg update && pkg upgrade -y && pkg install git -y && git clone https://github.com/XZV-Developer/Xfce-Proot-Dekstop.git && cd Xfce-Proot-Desktop && chmod +x install-xfce.sh && ./install-xfce.sh
+pkg update && pkg upgrade -y && pkg install git -y && git clone https://github.com/XZV-Developer/Xfce-Proot-Desktop.git && cd Xfce-Proot-Desktop && chmod +x install-xfce.sh && ./install-xfce.sh
 ```
 Jika di suruh masukkan password, password adalah: 1234
